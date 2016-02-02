@@ -6,7 +6,7 @@ Run ``python termux_bridge.py /path/to/some/folder &`` and keep the Termux sessi
 
 The deletion of the original file signals if the command has finished running: simply wait until it is deleted before accessing the resulting output files.
 
-A flow to easily run commands in the Termux Brdige for the [Automate application](https://play.google.com/store/apps/details?id=com.llamalab.automate) is available [here](http://llamalab.com/automate/community/flows/2957).
+A flow to easily run commands in the Termux Bridge for [Automate](https://play.google.com/store/apps/details?id=com.llamalab.automate) is available [here](http://llamalab.com/automate/community/flows/2957).
 
 # Requirements
 ``pip install watchdog``
